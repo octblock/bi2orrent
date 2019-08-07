@@ -4,9 +4,9 @@
 #include <string.h>
 
 
-#include "bt_setup.h"
-#include "bt_lib.h"
-#include "bencode.h"
+#include "include/bt_setup.h"
+#include "include/bt_lib.h"
+#include "include/bencode.h"
 
 
 /**
