@@ -30,7 +30,7 @@
 #include <stdint.h>
 #include <sys/stat.h>
 
-#include "bencode.h"
+#include "include/bencode.h"
 
 //allocates memory of the right size
 be_node *be_alloc(be_type type)

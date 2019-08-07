@@ -12,9 +12,9 @@
 #include <signal.h>
 
 
-#include "bencode.h"
-#include "bt_lib.h"
-#include "bt_setup.h"
+#include "include/bencode.h"
+#include "include/bt_lib.h"
+#include "include/bt_setup.h"
 
 int main (int argc, char * argv[]){
 

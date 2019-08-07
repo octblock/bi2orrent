@@ -12,9 +12,9 @@
 
 #include <openssl/sha.h> //hashing pieces
 
-#include "bencode.h"
-#include "bt_lib.h"
-#include "bt_setup.h"
+#include "include/bencode.h"
+#include "include/bt_lib.h"
+#include "include/bt_setup.h"
 
 
 
